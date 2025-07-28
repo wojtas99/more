@@ -16,12 +16,12 @@ Enhance situational awareness and accelerate decision-making by unifying live vi
 - [Maintainers](#Maintainers)
 
 # Key Features
-- Embed the drone’s camera feed directly within ATAK without switching apps.
+- Transmits images from the drone camera directly to the ATAK application
 - On-Device AI Analysis
 - Distance Estimation
 - Map Annotation
 - Extensible Architecture
-- Entirely self-contained—no external servers required.
+- Entirely self-contained—no external servers required
 - Operator coordinates
 - Drone coordinates
 - Distance from the drone to the operator
